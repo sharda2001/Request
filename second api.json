@@ -1,0 +1,235 @@
+{
+    "data": [
+        {
+            "id": "1868",
+            "parent_exercise_id": null,
+            "name": "Introduction to Web Scraping",
+            "slug": "web-scraping__introduction",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1870",
+            "parent_exercise_id": null,
+            "name": "Project Introduction",
+            "slug": "web-scraping__project-intro",
+            "sequence_num": 100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/project-intro.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1876",
+            "parent_exercise_id": null,
+            "name": "What is Scraping?",
+            "slug": "web-scraping__what-is-scraping",
+            "sequence_num": 200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/what-is-scraping.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1928",
+            "parent_exercise_id": null,
+            "name": "Task 2\nsubmission_type:url",
+            "slug": "web-scraping__task2",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task2.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1929",
+            "parent_exercise_id": null,
+            "name": "Task 3\nsubmission_type:url",
+            "slug": "web-scraping__task3",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task3.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1935",
+            "parent_exercise_id": null,
+            "name": "Task 4\nsubmission_type:url",
+            "slug": "web-scraping__task4",
+            "sequence_num": 600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task4.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1931",
+            "parent_exercise_id": null,
+            "name": "Task 5\nsubmission_type:url",
+            "slug": "web-scraping__task5",
+            "sequence_num": 700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task5.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1932",
+            "parent_exercise_id": null,
+            "name": "Task 6\nsubmission_type:url",
+            "slug": "web-scraping__task6",
+            "sequence_num": 800,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task6.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1933",
+            "parent_exercise_id": null,
+            "name": "Task 7\nsubmission_type:url",
+            "slug": "web-scraping__task7",
+            "sequence_num": 900,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task7.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1934",
+            "parent_exercise_id": null,
+            "name": "Task 8\nsubmission_type:url",
+            "slug": "web-scraping__task8",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task8.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1940",
+            "parent_exercise_id": null,
+            "name": "Task 9\nsubmission_type:url",
+            "slug": "web-scraping__task9",
+            "sequence_num": 1100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task9.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1941",
+            "parent_exercise_id": null,
+            "name": "Task 10\nsubmission_type:url",
+            "slug": "web-scraping__task10",
+            "sequence_num": 1200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task10.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1942",
+            "parent_exercise_id": null,
+            "name": "Task 11\nsubmission_type:url",
+            "slug": "web-scraping__task11",
+            "sequence_num": 1300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task11.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1943",
+            "parent_exercise_id": null,
+            "name": "Task 12\nsubmission_type:url",
+            "slug": "web-scraping__task12",
+            "sequence_num": 1400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task12.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1944",
+            "parent_exercise_id": null,
+            "name": "Task 13\nsubmission_type:url",
+            "slug": "web-scraping__task13",
+            "sequence_num": 1500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task13.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1945",
+            "parent_exercise_id": null,
+            "name": "Task 14\nsubmission_type:url",
+            "slug": "web-scraping__task14",
+            "sequence_num": 1600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task14.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1946",
+            "parent_exercise_id": null,
+            "name": "Task 15\nsubmission_type:url",
+            "slug": "web-scraping__task15",
+            "sequence_num": 1700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task15.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1950",
+            "parent_exercise_id": null,
+            "name": "Recap",
+            "slug": "web-scraping__recap",
+            "sequence_num": 1800,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/recap.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1948",
+            "parent_exercise_id": null,
+            "name": "Bonus Task 1\nsubmission_type:url",
+            "slug": "web-scraping__bonus-task1",
+            "sequence_num": 1900,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/bonus-task1.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1949",
+            "parent_exercise_id": null,
+            "name": "Bonus Task 2\nsubmission_type:url",
+            "slug": "web-scraping__bonus-task2",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/bonus-task2.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "1930",
+            "parent_exercise_id": null,
+            "name": "Task 1\nsubmission_type:url",
+            "slug": "web-scraping__task1",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/web-scraping/task1.md",
+            "submission_type": "url",
+            "childExercises": []
+        }
+    ]
+}
